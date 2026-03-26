@@ -35,7 +35,7 @@ CoffeeShop-Sales-Dashboard/
 ├── README.md
 
 ## Dashboard Preview
-![Dashboard](Dashboard/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## How to Use
 1. Download or clone the repository  
