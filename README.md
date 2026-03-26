@@ -21,6 +21,7 @@ To analyze retail sales data and generate actionable insights to improve overall
 - Analysis of sales trends and patterns  
 
 ## Project Structure
+```
 CoffeeShop-Sales-Dashboard/
 │
 ├── Data/
@@ -33,6 +34,7 @@ CoffeeShop-Sales-Dashboard/
 │   └── Coffee Shop Sales Analysis.pdf
 │
 ├── README.md
+```
 
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
